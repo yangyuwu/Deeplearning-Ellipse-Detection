@@ -8,4 +8,4 @@ I've created a deep learning model that detects whether the image contains an el
 
 The two additional files contain the meta-data for each image: if it contains an ellipse, and the parameters of the ellipse (center point, 0.5 * axis , orientation angle). 
 
-![example](https://user-images.githubusercontent.com/31940058/42411033-317a85ba-81fd-11e8-91f5-1decdce01827.JPG)
+![example](https://user-images.githubusercontent.com/31940058/42411068-03494e50-81fe-11e8-8586-afd6101df030.JPG)
